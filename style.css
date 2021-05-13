@@ -1,0 +1,27 @@
+body {
+    background: #fff;
+    margin: 10px;
+}
+
+h1 {
+    font-family: monospace;
+}
+
+.nav-bar {
+    text-align: center;
+    background: black;
+    color: white;
+    line-height: 30px;
+    border: none;
+    border-radius: 15px 15px 0px 0px;
+    width: 1000px;
+    margin: 2px;
+}
+
+.capa {
+    width: 1000px;
+    object-fit: fill;
+    margin: 2px;
+}
+
+.descricao {}

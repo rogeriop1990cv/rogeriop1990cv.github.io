@@ -55,6 +55,12 @@ div img {
     margin-right: auto;
 }
 
+.versao {
+    background: white;
+    margin: 0px;
+    color: black;
+}
+
 .text-center {
     text-align: center
 }

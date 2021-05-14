@@ -7,6 +7,23 @@ body {
     text-align: right;
 }
 
+h1 {
+    margin: 1px;
+}
+
+p {
+    font-size: 20px;
+}
+
+hr {
+    width: 1000px;
+}
+
+div img {
+    width: 150px;
+    margin: 10px;
+}
+
 .nav-bar {
     text-align: center;
     background: black;

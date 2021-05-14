@@ -1,6 +1,7 @@
 body {
     background: black;
     color: white;
+    margin: 0px;
 }
 
 a {
@@ -57,8 +58,17 @@ div img {
 
 .versao {
     background: white;
+    text-decoration: none;
     margin: 0px;
+}
+
+.versao a {
+    text-decoration: none;
     color: black;
+    font-size: 18px;
+    padding: 10px;
+    border: black;
+    border-radius: 50%;
 }
 
 .text-center {
